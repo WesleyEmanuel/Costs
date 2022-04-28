@@ -4,13 +4,13 @@
 
 ### 📸 Screenshots da Aplicação:
 <div>
-  <img style="width: 300px" src="./public/home.png" alt="home"/>
-  <img style="width: 300px" src="./public/criar_projeto.png" alt="home"/>
+  <img style="width: 400px" src="./public/home.png" alt="home"/>
+  <img style="width: 400px" src="./public/criar_projeto.png" alt="home"/>
 </div>
 
 <div>
-  <img style="width: 300px" src="./public/projetos.png" alt="home"/>
-  <img style="width: 300px" src="./public/editar_projeto.png" alt="home"/>
+  <img style="width: 400px" src="./public/projetos.png" alt="home"/>
+  <img style="width: 400px" src="./public/editar_projeto.png" alt="home"/>
 </div> </br>
 
 </br>
