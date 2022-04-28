@@ -11,9 +11,13 @@
 <div style="display: flex">
   <img style="width: 500px" src="./public/projetos.png" alt="home"/>
   <img style="width: 500px" src="./public/editar_projeto.png" alt="home"/>
-</div>
+</div> </br>
+
 </br>
-</br>
+<p align="center">
+  <a href="linkedin.com/in/wesley-emanuel-alves-de-oliveira-7b05781b9">Linkedin</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>Email: dev.wesleyalves@gmail.com</a>
+</p> </br>
 
 ### 📝 Sobre o projeto:
 Site para planejar e gerenciar projetos, adicionando, removendo e editando a
@@ -46,6 +50,7 @@ npm run backend
 npm start
 ```
 
+</br>
 <p align="center">
   <a href="linkedin.com/in/wesley-emanuel-alves-de-oliveira-7b05781b9">Linkedin</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a>Email: dev.wesleyalves@gmail.com</a>
