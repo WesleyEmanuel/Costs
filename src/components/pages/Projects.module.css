@@ -1,0 +1,17 @@
+.projectContainer{
+    padding: 2em;
+    width: 100%;
+}
+
+.tittleContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.noProjects{
+    color: #636363;
+    width: 100%;
+    text-align: center;
+    margin-top: 2em;
+}

@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "name": "Projeto 1",
+      "budget": "2500",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Projeto 2",
+      "budget": "3600",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Projeto 3",
+      "budget": "25000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": [
+            "Novo serviço"
+          ],
+          "cost": [
+            "200"
+          ],
+          "description": [
+            "Algum serviço para o projeto"
+          ],
+          "id": "946f1f22-ac14-4066-8fed-4f019c0b6f59"
+        },
+        {
+          "name": [
+            "Novo serviço"
+          ],
+          "cost": [
+            "100"
+          ],
+          "description": [
+            "Algum serviço para o projeto"
+          ],
+          "id": "8804f359-f474-4432-9638-ed5b8110185b"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Projeto 4",
+      "budget": "8500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

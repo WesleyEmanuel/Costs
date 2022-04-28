@@ -1,0 +1,14 @@
+.newProjectContainer{
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.newProjectContainer h1{
+    text-align: center;
+}
+
+.newProjectContainer p{
+    margin-top: 1em;
+    color: #636363;
+}

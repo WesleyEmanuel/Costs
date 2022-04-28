@@ -1,0 +1,28 @@
+footer{
+    background-color: #222;
+    text-align: center;
+    padding: 3em;
+}
+
+.socialMedias{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 2rem;
+    list-style: none;
+    cursor: pointer;
+}
+
+.socialMedias li{
+    color: #fff;
+}
+
+.socialMedias li:hover{
+    color: #ffbb33;
+}
+
+footer p{
+    margin-top: 10px;
+    font-weight: bold;
+    color: #ffbb33;
+}
