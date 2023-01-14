@@ -20,12 +20,12 @@
 </p> </br>
 
 ### 📝 Sobre o projeto:
-Site para planejar e gerenciar projetos, adicionando, removendo e editando a
+Sistema para planejar e gerenciar projetos, adicionando, removendo e editando a
 descrição, os serviços, e orçamento.
 O site foi todo desenvolvido em ReactJs. Além do uso dos components e hooks, 
 simulei o banco de dados com uma api em Json, utilizando o fetch pra fazer as requisições.
 O projeto foi feito junto ao curso de ReactJs do canal Hora de codar (no Youtube). Foi uma
-ótima experiência e oportunidade de colocar os conhecimentos em prática, além aprender ainda mais.
+ótima experiência e oportunidade de colocar os conhecimentos em prática.
 
 ### ⚛ Tecnologias utilizadas:
 - ReactJs
